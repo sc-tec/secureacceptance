@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\DevTools_Integration_Lane_HPA\hpa\security_examples\csharp\hpa\bin\hpa.dll
+C:\Documents and Settings\Administrator\DevTools_Integration_Lane_HPA\hpa\security_examples\csharp\hpa\bin\hpa.pdb
+C:\Documents and Settings\Administrator\DevTools_Integration_Lane_HPA\hpa\security_examples\csharp\hpa\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\DevTools_Integration_Lane_HPA\hpa\security_examples\csharp\hpa\obj\Debug\hpa.dll
+C:\Documents and Settings\Administrator\DevTools_Integration_Lane_HPA\hpa\security_examples\csharp\hpa\obj\Debug\hpa.pdb
+C:\Documents and Settings\Administrator\DevTools_Integration_Lane_HPA\hpa\security_examples\csharp\secureacceptance\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\DevTools_Integration_Lane_HPA\hpa\security_examples\csharp\secureacceptance\bin\secureacceptance.dll
+C:\Documents and Settings\Administrator\DevTools_Integration_Lane_HPA\hpa\security_examples\csharp\secureacceptance\bin\secureacceptance.pdb
+C:\Documents and Settings\Administrator\DevTools_Integration_Lane_HPA\hpa\security_examples\csharp\secureacceptance\obj\Debug\secureacceptance.dll
+C:\Documents and Settings\Administrator\DevTools_Integration_Lane_HPA\hpa\security_examples\csharp\secureacceptance\obj\Debug\secureacceptance.pdb
